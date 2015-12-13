@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 ni hao china
 ni hao world 
-
+welcome to china
 =======
 <<<<<<< HEAD
 hello world

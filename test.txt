@@ -1,2 +1,2 @@
 图片浏览器的简单制作
-hello and ni hao
+hello world

@@ -1,4 +1,12 @@
 图片浏览器的简单制作
+<<<<<<< HEAD
 ni hao china
 ni hao world 
 
+=======
+<<<<<<< HEAD
+hello world
+=======
+ni hao world
+>>>>>>> blb
+>>>>>>> 8861ebc7a2672d8000fe5489dce39489a6ef717d

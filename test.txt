@@ -1,2 +1,6 @@
 图片浏览器的简单制作
+<<<<<<< HEAD
 hello world
+=======
+ni hao world
+>>>>>>> blb

@@ -3,6 +3,7 @@
 ni hao china
 ni hao world 
 welcome to china
+this is git TEST
 =======
 <<<<<<< HEAD
 hello world

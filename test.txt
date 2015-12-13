@@ -4,6 +4,8 @@ ni hao china
 ni hao world 
 welcome to china
 this is git TEST
+this is git test
+>>>>>>> 5e4ad1fd45967c022e30100df9c0c8f919c5dae3
 =======
 <<<<<<< HEAD
 hello world
